@@ -6,4 +6,6 @@ $(document).ready(function() {
 		$("p").addClass("bright");
 		$("img").addClass("border");
 	});
+	$("h1").click(function() {
+		$
 });
