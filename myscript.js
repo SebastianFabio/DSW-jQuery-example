@@ -7,5 +7,5 @@ $(document).ready(function() {
 		$("img").addClass("border");
 	});
 	$("h1").click(function() {
-		$
+		$(p).hide();
 });
